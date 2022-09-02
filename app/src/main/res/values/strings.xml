@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contacto</string>
+    <string name="nuevo_contacto">Nuevo Contacto</string>
+    <string name="genero">Genero</string>
+    <string name="name">Name</string>
+    <string name="seleccione_sus_temas_de_interes">Seleccione sus temas de interes</string>
+    <string name="masculino">Masculino</string>
+</resources>
